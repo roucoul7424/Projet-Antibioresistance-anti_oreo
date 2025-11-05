@@ -1,6 +1,7 @@
 # Projet Antibiorésistance de l'équipe !oreo
 avancement de notre projet de detecteur d'antibiorésistance (fluorescence a 65°C d'un gene excité par une diode laser bleu)
 
+# Composantes
 pour le microcontrolleur nous utilison le esp32-devkit-v1
 
 la diode laser est la PLT5-450GB
